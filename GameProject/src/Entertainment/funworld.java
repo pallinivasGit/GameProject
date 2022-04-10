@@ -11,6 +11,7 @@ public class funworld {
 		System.out.println("Welcome to Prajwal");
 		System.out.println("Testing game");
 		System.out.println("webhook is working now");
+		System.out.println("Introduced a new game");
 
 	}
 
